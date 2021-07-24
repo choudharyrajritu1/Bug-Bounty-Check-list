@@ -3,6 +3,11 @@
 
 > This checklist may help you to have a good methodology for bug bounty hunting  
 When you have done a action, don't forget to check ;)  
+
+
+If you have questions or suggestions, don't hesitate to contact me on linkdin
+https://www.linkedin.com/in/ritu-raj-choudhary-44202620b/
+
 Happy hunting !  
 
 ## Table of Contents
